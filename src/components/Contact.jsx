@@ -8,7 +8,7 @@ const Contact = () => {
   const [formData, setFormData] = useState({
     firstName: '',
     lastName: '',
-    email: '',
+    email: '', 
     message: '',
     permission: false
   });

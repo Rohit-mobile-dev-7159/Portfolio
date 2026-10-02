@@ -8,7 +8,7 @@ const THEME = {
   bg: '#3D0709',
   bgDeep: '#2A0406',
   bgDeeper: '#1A0203',
-  fill: '#FCEBEC',
+  fill: '#FCEBEC', 
   dim: '#B8A6A7',
   accent: '#FF3B47',
   accentSoft: '#8A1F26',

@@ -36,7 +36,7 @@ const Navbar = () => {
     'About',
     'Expertise',
     'Skills',
-    'Projects',
+    'Projects', 
     'Contact',
   ];
 

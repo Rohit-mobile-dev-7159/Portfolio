@@ -224,7 +224,7 @@ const About = () => {
           >
             Hi, my name is{' '}
             <span
-              className="font-black mx-1 tracking-wide uppercase"
+              className="font-black mx-1 tracking-wide uppercase"  
               style={{ color: THEME.black }}
             >
               Rohit Kumar

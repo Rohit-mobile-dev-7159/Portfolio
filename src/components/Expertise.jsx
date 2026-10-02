@@ -266,7 +266,7 @@ const Expertise = () => {
             aosType="fade-right"
             aosDelay="400"
             pathLength={pathLength}
-            containerRef={containerRef}
+            containerRef={containerRef} 
           />
 
           {/* Hand-drawn end text */}

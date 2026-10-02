@@ -298,7 +298,7 @@ const Projects = () => {
                                 height="14"
                                 viewBox="0 0 300 14"
                                 preserveAspectRatio="none"
-                                fill="none"
+                                fill="none" 
                             >
                                 <motion.path
                                     d="M 4 8 Q 150 -4 296 8"

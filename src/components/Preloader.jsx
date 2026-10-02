@@ -301,7 +301,7 @@ const Preloader = () => {
               </span>
               <span className="w-6 h-px" style={{ background: THEME.accentSoft }} />
             </motion.div>
-          </motion.div>
+          </motion.div> 
         </motion.div>
       )}
     </AnimatePresence>
